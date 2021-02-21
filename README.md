@@ -42,6 +42,10 @@ $ jupyter notebook
 
 Enjoy!
 
+## Choosing a location
+
+Use Map Developers (https://www.mapdevelopers.com/draw-circle-tool.php) interface in order to create a point/radius which can then be passed into the `params` variable in this Jupyter Notebook.
+
 ## Troubleshooting
 
 It is best practice to ensure that each Jupyter notebook is run within it's own virtual environment. To accomplish this, ensure that `jupyter` and `ipykernel` are uninstalled globally. 
