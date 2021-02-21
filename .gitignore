@@ -1,0 +1,7 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Local Development
+.venv/
+.vscode/
+*.env
